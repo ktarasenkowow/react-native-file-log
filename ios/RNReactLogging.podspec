@@ -1,4 +1,4 @@
-
+v
 Pod::Spec.new do |s|
   s.name         = "RNReactLogging"
   s.version      = "1.0.0"
@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNReactLogging
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/ktarasenkowow/react-native-file-log"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
